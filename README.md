@@ -1,4 +1,28 @@
-## Hi there 👋
+<h1>Hi 👋 I'm Omar! <br> Machine Learning Enthusiast</h1>
+
+<h2>Internship Experience</h2>
+
+- <b>Evooq Pte. Ltd. </b>(January 2024 - April 2024)
+  - Large Language Model (LLM) Developer Intern
+- <b>Panasonic R&D Centre Singapore </b>(May 2023 - December 2023)
+  - AI Deep Learning Software Developer Intern
+
+<h2>Machine Learning Projects</h2>
+
+coming soon...
+
+<h2>Software Development Projects</h2>
+
+coming soon...
+
+<h3>Find me on LinkedIn and LeetCode:</h3>
+
+[<img align="left" alt="Omar | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Omar | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+
+
+[linkedin]: https://www.linkedin.com/in/omar-sheik-mustafa-7bb816259
+[leetcode]: https://leetcode.com/u/hurufo/
 
 <!--
 **omar-ntu/omar-ntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
