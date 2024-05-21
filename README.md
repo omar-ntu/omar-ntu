@@ -1,5 +1,11 @@
 <h1>Hi 👋 I'm Omar! <br> Machine Learning Enthusiast</h1>
 
+<h2>🎓 Education</h2>
+
+- <b>Nanyang Technological University, Singapore</b>
+  - Bachelor of Engineering (Honours) in Electrical and Electronic Engineering
+  - Specialising in Machine Learning
+
 <h2>Internship Experience</h2>
 
 - <b>Evooq Pte. Ltd. </b>(January 2024 - April 2024)
