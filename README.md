@@ -4,7 +4,7 @@
 
 - <b>Nanyang Technological University, Singapore</b>
   - Bachelor of Engineering (Honours) in Electrical and Electronic Engineering
-  - Specialising in Machine Learning
+  - Specialising in Data Analysis and Machine Learning
 
 <h2>Internship Experience</h2>
 
@@ -15,11 +15,19 @@
 
 <h2>Machine Learning Projects</h2>
 
-coming soon...
+- [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
+  - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
+- [Working with Neural Networks](https://github.com/omar-ntu/Neural-Networks)
+  - I explored and built numerous types of neural networks such as generative adversarial networks, neural style transfer, and convolutional neural networks to learn more about them. 
+
+more coming soon...
 
 <h2>Software Development Projects</h2>
 
-coming soon...
+- [GoodCause](https://ntu-eee-dip-e028.web.app/)
+  - This project was part of my university module "Design Innovation Project".
+
+more coming soon...
 
 <h3>Find me on LinkedIn:</h3>
 
