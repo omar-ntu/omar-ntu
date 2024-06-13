@@ -21,14 +21,13 @@ coming soon...
 
 coming soon...
 
-<h3>Find me on LinkedIn and LeetCode:</h3>
+<h3>Find me on LinkedIn:</h3>
 
 [<img align="left" alt="Omar | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Omar | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 
 [linkedin]: https://www.linkedin.com/in/omar-sheik-mustafa-7bb816259
-[leetcode]: https://leetcode.com/u/hurufo/
+
 
 <!--
 **omar-ntu/omar-ntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
