@@ -8,9 +8,9 @@
 
 <h2>Internship Experience</h2>
 
-- <b>Evooq Pte. Ltd. </b>(January 2024 - April 2024)
+- <b>Evooq Pte. Ltd. </b>
   - Large Language Model (LLM) Developer Intern
-- <b>Panasonic R&D Centre Singapore </b>(May 2023 - December 2023)
+- <b>Panasonic R&D Centre Singapore </b>
   - AI Deep Learning Software Developer Intern
 
 <h2>Machine Learning Projects</h2>
