@@ -9,7 +9,7 @@
 <h2>Internship Experience</h2>
 
 - <b>Evooq Pte. Ltd. </b>
-  - Large Language Model (LLM) Developer Intern
+  - AI Software Engineer Intern
 - <b>Panasonic R&D Centre Singapore </b>
   - AI Deep Learning Software Developer Intern
 
