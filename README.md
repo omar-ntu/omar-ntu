@@ -17,10 +17,10 @@
 
 - [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
   - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
+- [NTU Undergraduate Research Opportunity Programme (UROP)](https://github.com/omar-ntu/dummy-data-generation-and-data-augmentation-using-ML/tree/main)
+  - I conducted a research project under my university's UROP. The title of my project is "Dummy Data Generation and Data Augmentation Using Machine Learning".
 - [Working with Neural Networks](https://github.com/omar-ntu/Neural-Networks)
   - I explored and built numerous types of neural networks such as generative adversarial networks, neural style transfer, and convolutional neural networks to learn more about them.
-  - [Generative Adversarial Networks](https://github.com/omar-ntu/Neural-Networks/tree/main/GANs)
-  - [Neural Style Transfer](https://github.com/omar-ntu/Neural-Networks/tree/main/NSTs)
 
 more coming soon...
 
