@@ -9,11 +9,21 @@
 <h2>Internship Experience</h2>
 
 - <b>Evooq Pte. Ltd. </b>
-  - AI Software Engineer Intern
+  - Large Language Model Developer Intern
 - <b>Panasonic R&D Centre Singapore </b>
   - AI Deep Learning Software Developer Intern
 
 <h2>Machine Learning Projects</h2>
+<h3>Large Language Model (LLM) Development Projects</h3>
+
+- [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
+  - This was for one of my uni modules, "Design Innovation Project". We built a web application, and I developed the chatbot for it.
+- [AI Data Analyst Assistant](https://github.com/omar-ntu/data-analyst)
+  - I developed an AI assistant that returns the user stock prices that they ask for. Comes with voice audio.
+- [AI friend](https://github.com/omar-ntu/LLM-Deployment)
+  - My first personal LLM project. I was getting an introduction to LLM development.
+
+<h3>Traditional ML Projects</h3>
 
 - [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
   - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
