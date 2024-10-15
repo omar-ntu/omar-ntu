@@ -16,28 +16,40 @@
 <h2>Machine Learning Projects</h2>
 <h3>Large Language Model (LLM) Development Projects</h3>
 
+- Lyon
+  - Part of my undergrad Final Year Project
+  - Conversational RAG chatbot that gives you information about NTU's undergraduate programmes. It can also provide you with programme recommendations based on your academic background, among other things.
+  - Python, Hugging Face, LangChain, Llama, Mistral, Groq
 - [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
   - This was for one of my uni modules, "Design Innovation Project". We built a web application, and I developed the chatbot for it.
+  - Python, OpenAI SDK
 - [AI Data Analyst Assistant](https://github.com/omar-ntu/data-analyst)
   - I developed an AI assistant that returns the user stock prices that they ask for. Comes with voice audio.
+  - Python, OpenAI SDK, Streamlit
 - [AI friend](https://github.com/omar-ntu/LLM-Deployment)
   - My first personal LLM project. I was getting an introduction to LLM development.
+  - Python, Hugging Face, OpenAI SDK, Streamlit
 
 <h3>Traditional ML Projects</h3>
 
 - [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
   - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
+  - Python, PyTorch, Flask, HTML, CSS JavaScript
 - [NTU Undergraduate Research Opportunity Programme (UROP)](https://github.com/omar-ntu/dummy-data-generation-and-data-augmentation-using-ML/tree/main)
   - I conducted a research project under my university's UROP. The title of my project is "Dummy Data Generation and Data Augmentation Using Machine Learning".
+  - Python, PyTorch, NumPy, Matplotlib
 - [Working with Neural Networks](https://github.com/omar-ntu/Neural-Networks)
   - I explored and built numerous types of neural networks such as generative adversarial networks, neural style transfer, and convolutional neural networks to learn more about them.
+  - Python, PyTorch
 
 more coming soon...
 
 <h2>Software Development Projects</h2>
 
-- [GoodCause](https://ntu-eee-dip-e028.web.app/)
-  - This project was part of my university module "Design Innovation Project".
+- Dental Clinic Website 
+  - Part of my university module "Web Application Design". The repository is currently private.
+  - I collaborate with a fellow EEE student to design and build a web application for a dental clinic that we call Radiant Smiles Dental.
+  - HTML, CSS, JavaScript, React, PHP, MySQL
 
 more coming soon...
 
