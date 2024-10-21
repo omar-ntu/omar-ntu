@@ -32,6 +32,11 @@
 
 <h3>Traditional ML Projects</h3>
 
+- Dogs vs Cats Classifier
+  - Part of my university module "Artificial Intelligence and Data Mining". The repository is currently private.
+  - I collaborate with 2 other EEE students to design and develop a convolutional neural network (CNN) that accurately classifies images of dogs and cats.
+  - We performed some data augmentation techniques on the image dataset to expand it, and we conducted extensive hyperparameter tuning on the machine learning model to optimise its performance.
+  - Python, PyTorch, NumPy
 - [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
   - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
   - Python, PyTorch, Flask, HTML, CSS JavaScript
