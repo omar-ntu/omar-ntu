@@ -50,6 +50,10 @@ more coming soon...
   - Part of my university module "Web Application Design". The repository is currently private.
   - I collaborate with a fellow EEE student to design and build a web application for a dental clinic that we call Radiant Smiles Dental.
   - HTML, CSS, JavaScript, React, PHP, MySQL
+- Web Application Design Case Study
+  - Part of my university module "Web Application Design". The repository is currently private.
+  - I collaborate with a fellow EEE student to architect and develop a web application according to a case study's requirements.
+  - HTML, CSS, JavaScript, PHP, MySQL
 
 more coming soon...
 
