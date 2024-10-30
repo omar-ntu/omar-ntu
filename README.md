@@ -54,7 +54,7 @@ more coming soon...
 - Dental Clinic Website 
   - Part of my university module "Web Application Design". The repository is currently private.
   - I collaborate with a fellow EEE student to design and build a web application for a dental clinic that we call Radiant Smiles Dental.
-  - HTML, CSS, JavaScript, React, PHP, MySQL
+  - HTML, CSS, JavaScript, PHP, MySQL
 - Web Application Design Case Study
   - Part of my university module "Web Application Design". The repository is currently private.
   - I collaborate with a fellow EEE student to architect and develop a web application according to a case study's requirements. The case study is about building a website for a coffee house. The project involves a webpage that allows the customer to submit orders, and webpages for the manager to update prices and get a sales report.
