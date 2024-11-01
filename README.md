@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Omar! <br> AI Enthusiast</h1>
+<h1>Hi 👋 I'm Omar! <br> AI and Machine Learning Enthusiast</h1>
 
 <h2>🎓 Education</h2>
 
