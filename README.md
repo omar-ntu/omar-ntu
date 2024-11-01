@@ -10,7 +10,7 @@
 
 - <b>Evooq Pte. Ltd. </b>
   - Large Language Model Developer Intern
-- <b>Panasonic R&D Centre Singapore </b>
+- <b>Panasonic</b>
   - AI Deep Learning Software Developer Intern
 
 <h2>Machine Learning Projects</h2>
