@@ -32,8 +32,8 @@
 
 <h3>Traditional ML Projects</h3>
 
-- Dogs vs Cats Classifier
-  - Part of my university module "Artificial Intelligence and Data Mining". The repository is currently private.
+- [Dogs vs Cats Classifier](https://github.com/omar-ntu/DogCatClassifier)
+  - Part of my university module "Artificial Intelligence and Data Mining". Got a 'B+'.
   - I collaborate with 2 other EEE students to design and develop a convolutional neural network (CNN) that accurately classifies images of dogs and cats.
   - We performed some data augmentation techniques on the image dataset to expand it, and we conducted extensive hyperparameter tuning on the machine learning model to optimise its performance.
   - Python, PyTorch, NumPy
