@@ -51,8 +51,8 @@ more coming soon...
 
 <h2>Software Development Projects</h2>
 
-- Dental Clinic Website 
-  - Part of my university module "Web Application Design". The repository is currently private.
+- [Dental Clinic Website](https://github.com/koarine/Dental-Website-Project)
+  - Part of my university module "Web Application Design". Got an 'A'.
   - I collaborate with a fellow EEE student to design and build a web application for a dental clinic that we call Radiant Smiles Dental.
   - HTML, CSS, JavaScript, PHP, MySQL
 - Web Application Design Case Study
