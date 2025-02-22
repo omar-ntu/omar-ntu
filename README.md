@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Omar! <br> AI and Machine Learning Enthusiast</h1>
+<h1>Hi 👋 I'm Omar! <br> Machine Learning Enthusiast</h1>
 
 <h2>🎓 Education</h2>
 
@@ -19,7 +19,7 @@
 - Lyon
   - Part of my undergrad Final Year Project
   - Conversational RAG chatbot that gives you information about NTU's undergraduate programmes. It can also provide you with programme recommendations based on your academic background, among other things.
-  - Python, Hugging Face, LangChain, Llama, Mistral, Groq
+  - Python, Hugging Face, LangChain, Llama, Mistral, Groq (also trying local models with Ollama)
 - [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
   - This was for one of my uni modules, "Design Innovation Project". We built a web application, and I developed the chatbot for it.
   - Python, OpenAI SDK
@@ -56,7 +56,7 @@ more coming soon...
   - I collaborate with a fellow EEE student to design and build a web application for a dental clinic that we call Radiant Smiles Dental.
   - HTML, CSS, JavaScript, PHP, MySQL
 - Web Application Design Case Study
-  - Part of my university module "Web Application Design". The repository is currently private.
+  - Part of my university module "Web Application Design".
   - I collaborate with a fellow EEE student to architect and develop a web application according to a case study's requirements. The case study is about building a website for a coffee house. The project involves a webpage that allows the customer to submit orders, and webpages for the manager to update prices and get a sales report.
   - HTML, CSS, JavaScript, PHP, MySQL
 
