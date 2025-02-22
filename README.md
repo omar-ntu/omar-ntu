@@ -43,9 +43,7 @@
 - [NTU Undergraduate Research Opportunity Programme (UROP)](https://github.com/omar-ntu/dummy-data-generation-and-data-augmentation-using-ML/tree/main)
   - I conducted a research project under my university's UROP. The title of my project is "Dummy Data Generation and Data Augmentation Using Machine Learning".
   - Python, PyTorch, NumPy, Matplotlib
-- [Working with Neural Networks](https://github.com/omar-ntu/Neural-Networks)
-  - I explored and built numerous types of neural networks such as generative adversarial networks, neural style transfer, and convolutional neural networks to learn more about them.
-  - Python, PyTorch
+
 
 more coming soon...
 
