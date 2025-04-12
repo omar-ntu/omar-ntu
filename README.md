@@ -16,22 +16,35 @@
 <h2>Machine Learning Projects</h2>
 <h3>Large Language Model (LLM) Development Projects</h3>
 
-- Lyon
+- NTU Course Recommender Chatbot
   - Part of my undergrad Final Year Project
   - Conversational RAG chatbot that gives you information about NTU's undergraduate programmes. It can also provide you with programme recommendations based on your academic background, among other things.
-  - Python, Hugging Face, LangChain, Llama, Mistral, Groq (also trying local models with Ollama)
+  - Ollama, DeepSeek, Python, Hugging Face
+  - Previously: Python, Hugging Face, LangChain, Llama, Mistral, Groq
 - [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
   - This was for one of my uni modules, "Design Innovation Project". We built a web application, and I developed the chatbot for it.
   - Python, OpenAI SDK
 - [AI Data Analyst Assistant](https://github.com/omar-ntu/data-analyst)
   - I developed an AI assistant that returns the user stock prices that they ask for. Comes with voice audio.
+  - Did this for an internship application. Managed to impress the CTO with this during the interview and landed the internship.
   - Python, OpenAI SDK, Streamlit
-- [AI friend](https://github.com/omar-ntu/LLM-Deployment)
-  - My first personal LLM project. I was getting an introduction to LLM development.
-  - Python, Hugging Face, OpenAI SDK, Streamlit
 
 <h3>Traditional ML Projects</h3>
 
+- Recommendation System for NTU Aptitude-Based Admissions (ABA) applicants
+  - Built a recommendation system that recommends appropriate schools in NTU to ABA applicants based on their interests, strengths, and academic background.
+  - Collaborative Filtering using Probability Matrix Factorisation, Content-based Filtering via computing cosine similarity of BERT embeddings of user interests with school descriptions, Weighted Hybrid System of both filtering algorithms.
+  - Tons of libraries (Pandas, Numpy, Hugging Face, NLTK, Matplotlib, ...)
+- Information Extraction / Question-Answering Bot
+  - Without using LLMs
+  - Part of a project for my university module "Natural Language Processing".
+  - Built a machine learning model that extracts key information from the lecture transcripts when given a user query (kinda like Google)
+  - Experimented with different ways to do this, such as utilising a BERT-based NER model, a simple TF-IDF + cosine similarity, and finally fine-tuning BERT variants on the SQuAD dataset + our curated dataset
+  - Conducted extensive hyperparameter tuning to achieve more than 90% accuracy of the model
+- [Face Recognition](https://github.com/omar-ntu/face-recognition)
+  - Part of my university module "Intelligent Systems Design".
+  - Collaborated with 6 other EEE students to design and build face recognition systems using (1) traditional machine learning methods like Principal Component Analysis and (2) deep learning techniques like MTCNN
+  - Python, OpenCV
 - [Dogs vs Cats Classifier](https://github.com/omar-ntu/DogCatClassifier)
   - Part of my university module "Artificial Intelligence and Data Mining". Got a 'B+'.
   - I collaborate with 2 other EEE students to design and develop a convolutional neural network (CNN) that accurately classifies images of dogs and cats.
