@@ -29,7 +29,7 @@
   - Did this for an internship application. Managed to impress the CTO with this during the interview and landed the internship.
   - Python, OpenAI SDK, Streamlit
 
-<h3>Traditional ML Projects</h3>
+<h3>Machine Learning Projects</h3>
 
 - Recommendation System for NTU Aptitude-Based Admissions (ABA) applicants
   - Built a recommendation system that recommends appropriate schools in NTU to ABA applicants based on their interests, strengths, and academic background.
