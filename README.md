@@ -1,19 +1,25 @@
 <h1>Hi 👋 I'm Omar! <br> Machine Learning Enthusiast</h1>
 
+<h2>🙂 About Me</h2>
+
+<p>I'm an aspiring Machine Learning Engineer and Researcher with a deep love for machine learning and a fascination with understanding how algorithms work. To me, machine learning is a form of art; capturing the intricate ways we think, perceive, and learn and mapping it all into mathematical representations is truly beautiful and inspiring. My journey began during my undergraduate studies, where I discovered the true beauty of the art behind these algorithms.</p>
+<p>Currently focused on deep learning applications in natural language processing and recommendation systems (and a little bit of computer vision), I'm constantly expanding my knowledge through hands-on projects, research, and collaboration with the AI community.</p>
+<p>My goal is to contribute to cutting-edge research while building practical AI systems that are ethical, explainable, and beneficial to society.</p>
+
 <h2>🎓 Education</h2>
 
 - <b>Nanyang Technological University, Singapore</b>
   - Bachelor of Engineering (Honours) in Electrical and Electronic Engineering
   - Specialising in Data Analysis and Machine Learning
 
-<h2>Internship Experience</h2>
+<h2>💼 Internship Experience</h2>
 
 - <b>Evooq Pte. Ltd. </b>
   - Large Language Model Developer Intern
 - <b>Panasonic</b>
   - AI Deep Learning Software Developer Intern
 
-<h2>Machine Learning Projects</h2>
+<h2>🤖 Machine Learning Projects</h2>
 <h3>Large Language Model (LLM) Development Projects</h3>
 
 - NTU Course Recommender Chatbot
@@ -60,7 +66,7 @@
 
 more coming soon...
 
-<h2>Software Development Projects</h2>
+<h2>👨🏻‍💻 Software Development Projects</h2>
 
 - [Dental Clinic Website](https://github.com/koarine/Dental-Website-Project)
   - Part of my university module "Web Application Design". Got an 'A'.
