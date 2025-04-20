@@ -57,10 +57,11 @@
   - We performed some data augmentation techniques on the image dataset to expand it, and we conducted extensive hyperparameter tuning on the machine learning model to optimise its performance.
   - Python, PyTorch, NumPy
 - [Handwritten Digit Recogniser Web Application](https://github.com/omar-ntu/digit_recognition_app)
-  - I designed and constructed a convolutional neural network using Pytorch that can identify handwritten digits given by the user in this web application.
+  - I designed and constructed a convolutional neural network (CNN) using Pytorch that can identify handwritten digits given by the user in this web application.
   - Python, PyTorch, Flask, HTML, CSS JavaScript
 - [NTU Undergraduate Research Opportunity Programme (UROP)](https://github.com/omar-ntu/dummy-data-generation-and-data-augmentation-using-ML/tree/main)
   - I conducted a research project under my university's UROP. The title of my project is "Dummy Data Generation and Data Augmentation Using Machine Learning".
+  - I explored the use of generative adversarial networks (GANs) and neural style transfer for the purposes of data augmentation.
   - Python, PyTorch, NumPy, Matplotlib
 
 
