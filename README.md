@@ -25,7 +25,7 @@
 - NTU Course Recommender Chatbot
   - Part of my undergrad Final Year Project
   - Conversational RAG chatbot that gives you information about NTU's undergraduate programmes. It can also provide you with programme recommendations based on your academic background, among other things.
-  - Ollama, DeepSeek, Python, Hugging Face
+  - LangChain, Ollama, DeepSeek, Python, Hugging Face
   - Previously: Python, Hugging Face, LangChain, Llama, Mistral, Groq
 - [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
   - This was for one of my uni modules, "Design Innovation Project". We built a web application, and I developed the chatbot for it.
