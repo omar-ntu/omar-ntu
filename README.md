@@ -24,27 +24,22 @@
 
 <h2>🤖 Machine Learning Projects</h2>
 
+- [3D Point Cloud Completion using a Diffusion Model](https://github.com/omar-ntu/PointCloudCompletion/tree/main)
+- [Financial Sentiment Classification using FinBERT](https://github.com/omar-ntu/CentralBankPolicy_SentimentClassification)
 - Recommendation System for NTU Aptitude-Based Admissions (ABA) applicants
-  - Tons of libraries (Pandas, Numpy, Hugging Face, NLTK, Matplotlib, ...)
+  - Undergraduate Final Year Project
 - NTU Course Recommender Chatbot
-  - LangChain, Ollama, DeepSeek, Python, Hugging Face
+  - Undergraduate Final Year Project
 - Information Extraction / Question-Answering Bot using BERT, NER, TF-IDF
 - [Bobby the Chatbot](https://ntu-eee-dip-e028.web.app/chatbot)
-  - Python, OpenAI SDK
+  - Undergraduate Design Innovation Project
 - [AI Data Analyst Assistant](https://github.com/omar-ntu/data-analyst)
-  - Python, OpenAI SDK, Streamlit
 - [Face Recognition using PCA and CNN](https://github.com/omar-ntu/face-recognition)
-  - Python, OpenCV
 - [Dogs vs Cats Classifier using CNN](https://github.com/omar-ntu/DogCatClassifier)
-  - Python, PyTorch, NumPy
 - [Handwritten Digit Recogniser Web Application using CNN](https://github.com/omar-ntu/digit_recognition_app)
-  - Python, PyTorch, Flask, HTML, CSS JavaScript
 - Dummy Data Generation and Data Augmentation Using Machine Learning (GANs & NST)
   - Undergraduate Research Opportunity Programme (UROP)
-  - Python, PyTorch, NumPy, Matplotlib
 
-
-more coming soon...
 
 <h2>👨🏻‍💻 Software Development Projects</h2>
 
