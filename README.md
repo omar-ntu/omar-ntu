@@ -24,8 +24,9 @@
 
 <h2>🤖 Machine Learning Projects</h2>
 
+- [Indoor Room Mapping](https://github.com/omar-ntu/indoor_room_mapping)
 - Personal Project: [Video VAE for Latent Video Compression](https://github.com/omar-ntu/Personal-Projects/tree/main/VideoVAE)
-- [3D Point Cloud Completion using a Diffusion Model](https://github.com/omar-ntu/PointCloudCompletion/tree/main)
+- Personal Project: [3D Point Cloud Completion using a Diffusion Model](https://github.com/omar-ntu/PointCloudCompletion/tree/main)
 - [Financial Sentiment Classification using FinBERT](https://github.com/omar-ntu/CentralBankPolicy_SentimentClassification)
 - Recommendation System for NTU Aptitude-Based Admissions (ABA) applicants
   - Undergraduate Final Year Project
